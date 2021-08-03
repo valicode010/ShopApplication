@@ -11,7 +11,7 @@ ___
 ### Wellcome
 Hello!
 
-My name is Stefan, I am 24 years old and I am a programmer and graduate of the full stack developer course held at the Software Development Academy, which took place over a period of 9 months during which I studied mostly Java, Spring and My SQL but also HTML, CSS and Angular. For more details you can visit my LinkedIn account whose link you will find below.
+My name is Stefan, I am 25 years old and I am a programmer and graduate of the full stack developer course held at the Software Development Academy, which took place over a period of 9 months during which I studied mostly Java, Spring and My SQL but also HTML, CSS and Angular. For more details you can visit my LinkedIn account whose link you will find below.
 
 [Linkedin Account](https://www.linkedin.com/in/vaduva-stefan-valentin-5aa501118/)
 
